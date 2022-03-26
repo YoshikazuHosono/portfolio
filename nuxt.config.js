@@ -65,6 +65,6 @@ export default {
   target: "static",
 
   router: {
-    base: "/YoshikazuHosono.github.io/",
+    base: "/portfolio/",
   },
 };
